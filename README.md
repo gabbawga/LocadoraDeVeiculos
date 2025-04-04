@@ -23,9 +23,3 @@ Projeto Java simples que simula o funcionamento de uma locadora de veículos, co
 
 ---
 
-## 💻 Como Executar o Projeto
-
-### 1. Clone o repositório:
-```bash
-git clone https://github.com/gabbawga/LocadoraDeVeiculos.git
-cd LocadoraDeVeiculos
